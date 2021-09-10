@@ -13,9 +13,9 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 1. Finscope Tanzania 2017
 2. Cumulative and variable defenition dataset.
 
-# ** PROCESS / METHODOLOGIES used:**
+# **PROCESS / METHODOLOGIES used:**
  1. EDA(Exploritory Data Analysis).
  2. Uni,Bi,and Multi- vairate methods of Data Analysis.
 
-# ** RESULTS **
+# **RESULTS**
 
