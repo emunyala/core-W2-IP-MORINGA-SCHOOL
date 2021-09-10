@@ -19,3 +19,34 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 
 # **RESULTS**
 
+## **SUMMARY UNIVARIETE ANALYSIS**
+> ANALYSIS 1
+
+* Rwanda had the highest number 
+of people who were questioned for this survey
+This was followed by Tanzania and Kenya. 
+* From this we can see from the analysis
+more Females were surveyed than males.
+* We can conclude that the greater population in the dataset is between the ages of 25 and 40
+
+* From this we can see from the analysis
+most people dont have  bank accounts in East Africa.
+
+* From this we can see from the analysis
+most people live in Rural areas thus explaining why theres less people 
+having bank accounts.
+
+
+
+
+
+> ANALYSIS 2
+
+*  more men than women are more likely to own a bank account
+* most people with bank accounts are fairly educated
+
+* most people without bank accounts have no formaal or just little education
+
+* those who are self employed seem to be ones with most bank accounts, followed by remittance dependent
+
+
